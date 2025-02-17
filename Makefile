@@ -1,5 +1,5 @@
 install:
-	pip install --upgrade && pip install -r requirements.txt
+	pip install -r requirements.txt
 
 
 lint:
